@@ -26,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/José_Rizal
     - http://www.joserizal.ph/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30211#Au-Pays-des-Moines--Noli-me-Tangere-
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-10-07'
 gutenberg_type: Text
