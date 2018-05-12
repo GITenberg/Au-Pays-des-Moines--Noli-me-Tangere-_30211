@@ -1,0 +1,44 @@
+_repo: Au-Pays-des-Moines--Noli-me-Tangere-_30211
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Lucas, Henri
+    gutenberg_agent_id: '34442'
+    url: http://www.gutenberg.org/2009/agents/34442
+  - agent_name: Sempau, Ramon
+    alias: Sempau, R.
+    gutenberg_agent_id: '34443'
+    url: http://www.gutenberg.org/2009/agents/34443
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rizal, José
+    aliases:
+    - Rizal Mercado y Alonzo Realonda, José Protasio
+    - Rizal, Jose
+    birthdate: 1861
+    deathdate: 1896
+    gutenberg_agent_id: '2183'
+    url: http://www.gutenberg.org/2009/agents/2183
+    wikipedia:
+    - http://en.wikipedia.org/wiki/José_Rizal
+    - http://www.joserizal.ph/
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30211'
+  lccn: f01002739
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- History -- 1812-1898 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Historical fiction'
+title: Au Pays des Moines (Noli me Tangere)
+url: http://www.gutenberg.org/ebooks/30211
